@@ -43,5 +43,9 @@ The dashboard can be filtered using:
 * Used the dashboard to compare sales and profit across different areas of the data.
 
 ## Dashboard
+ 
+![Sales Performance Dashboard](dashboard_Preview.png.png) 
+ 
+The Power BI `.pbix` file is available in this repository.
 
 The Power BI `.pbix` file is available in this repository.
