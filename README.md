@@ -48,4 +48,3 @@ The dashboard can be filtered using:
  
 The Power BI `.pbix` file is available in this repository.
 
-The Power BI `.pbix` file is available in this repository.
